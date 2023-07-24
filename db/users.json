@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "647e332b0cfd41befa3dc95f"
+  },
+  "firstname": "daniel",
+  "lastname": "ndabose",
+  "tel": "655197144",
+  "age": 21,
+  "password": "$2b$10$/GZbMLpAAo7RPyHn2LH0k.AboVIB5b5VPyAbvfj8Q6fcGAxRC2dbe",
+  "gender": "male",
+  "auth": "email_and_password",
+  "type": "particulier",
+  "location": {
+    "long": 12.4536,
+    "lat": 13.4567
+  },
+  "email": "yanish.appadoo@accenture.com",
+  "category": [
+    "Tech"
+  ],
+  "piece_indentite": {
+    "type_piece": "Carte national identite",
+    "nom": "Daniel",
+    "ville_de_delivrance": "Yaounde",
+    "date_de_delivrance": "10-12-2023",
+    "date_expiration": "10-12-2025",
+    "uid": "1234565667522"
+  },
+  "document": [],
+  "authToken": null,
+  "image": "https://image.png",
+  "verified": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685992235536"
+    }
+  },
+  "__v": 0
+}]
